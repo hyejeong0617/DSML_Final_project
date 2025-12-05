@@ -1,6 +1,3 @@
-from IPython.display import Markdown, display
-
-readme_text = r"""
 # Food Safety Risk Prediction Using RASFF Data
 
 ## 📘 Overview
@@ -144,5 +141,3 @@ The project demonstrates the potential of machine learning for supporting **food
 ---
 
 """
-
-display(Markdown(readme_text))
