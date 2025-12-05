@@ -140,4 +140,14 @@ The project demonstrates the potential of machine learning for supporting **food
 
 ---
 
+## 📁 Project Files
+
+```
+📄 AI meets food safety_presentation.pdf  → Summary presentation
+📓 20 experimentation notebook (will be cleaned up later)
+📄 cleanedDataset.csv    → cleaned dataset
+📄 RASFF_originaldataset.csv    → origina dataset
+```
+
+
 """
